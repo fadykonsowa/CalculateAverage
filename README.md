@@ -1,1 +1,1 @@
-# Calculate Average Application with C#
+# The calculate average for number with C#
